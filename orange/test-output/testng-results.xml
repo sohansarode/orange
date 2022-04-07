@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41089" started-at="2022-04-02T00:19:18 IST" finished-at="2022-04-02T00:19:59 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41089" started-at="2022-04-02T00:19:18 IST" finished-at="2022-04-02T00:19:59 IST">
+      <class name="com.orange.qa.testcases.loginpagestest">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.orange.qa.testcases.loginpagestest@3234e239]" name="browser" is-config="true" duration-ms="11126" started-at="2022-04-02T00:19:18 IST" finished-at="2022-04-02T00:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="TC1()[pri:0, instance:com.orange.qa.testcases.loginpagestest@3234e239]" name="TC1" duration-ms="30" started-at="2022-04-02T00:19:29 IST" description="verify url launch successfully" finished-at="2022-04-02T00:19:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.orange.qa.testcases.loginpagestest@3234e239]" name="teardown" is-config="true" duration-ms="738" started-at="2022-04-02T00:19:30 IST" finished-at="2022-04-02T00:19:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.orange.qa.testcases.loginpagestest@3234e239]" name="browser" is-config="true" duration-ms="10744" started-at="2022-04-02T00:19:30 IST" finished-at="2022-04-02T00:19:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="TC2()[pri:0, instance:com.orange.qa.testcases.loginpagestest@3234e239]" name="TC2" duration-ms="76" started-at="2022-04-02T00:19:41 IST" finished-at="2022-04-02T00:19:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.orange.qa.testcases.loginpagestest@3234e239]" name="teardown" is-config="true" duration-ms="730" started-at="2022-04-02T00:19:41 IST" finished-at="2022-04-02T00:19:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.orange.qa.testcases.loginpagestest@3234e239]" name="browser" is-config="true" duration-ms="12352" started-at="2022-04-02T00:19:42 IST" finished-at="2022-04-02T00:19:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="TC3()[pri:0, instance:com.orange.qa.testcases.loginpagestest@3234e239]" name="TC3" duration-ms="4520" started-at="2022-04-02T00:19:54 IST" finished-at="2022-04-02T00:19:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.orange.qa.testcases.loginpagestest@3234e239]" name="teardown" is-config="true" duration-ms="747" started-at="2022-04-02T00:19:59 IST" finished-at="2022-04-02T00:19:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.orange.qa.testcases.loginpagestest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
